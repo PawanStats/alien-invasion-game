@@ -27,10 +27,11 @@ For best results, use bitmap (.bmp) images and make sure their background color 
 Open your terminal, navigate to the folder containing all the files, and run the main script:
 python alien_invasion.py
 
-Controls
+# Controls:-
 Left/Right Arrow Keys: Move the ship.
 Spacebar: Fire bullets.
 Q Key: Quit the game.
+
 Mouse: Click the "Play" button to start.
 =======
 # alien-invasion-game
