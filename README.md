@@ -28,9 +28,9 @@ Open your terminal, navigate to the folder containing all the files, and run the
 python alien_invasion.py
 
 # Controls:-
-Left/Right Arrow Keys: Move the ship.
-Spacebar: Fire bullets.
-Q Key: Quit the game.
+       1.Left/Right Arrow Keys: Move the ship.
+       2.Spacebar: Fire bullets.
+       3.Q Key: Quit the game.
 
 Mouse: Click the "Play" button to start.
 =======
