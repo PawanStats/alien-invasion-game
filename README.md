@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Alien Invasion Game
 This is a classic arcade game, "Alien Invasion," built with Python and the Pygame library.
 
@@ -41,3 +42,9 @@ Spacebar: Fire bullets.
 Q Key: Quit the game.
 
 Mouse: Click the "Play" button to start.
+=======
+# alien-invasion-game
+A classic space shooter game built with Python and Pygame.
+
+
+>>>>>>> fd3917f72803d09cd1d6fe87838f77444be370f8
