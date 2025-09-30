@@ -20,9 +20,11 @@ Add Images: You need to find or create two small image files and place them insi
 ship.bmp: An image for the player's ship.
 alien.bmp: An image for the alien enemies.
 
-# Tip: For best results, use bitmap (.bmp) images and make sure their background color is the same as the game's background ((230, 230, 230) which is a light gray). This will make them look like they have a transparent background.
+# Tip: 
+For best results, use bitmap (.bmp) images and make sure their background color is the same as the game's background ((230, 230, 230) which is a light gray). This will make them look like they have a transparent background.
 
-# Run the Game: Open your terminal, navigate to the folder containing all the files, and run the main script:
+# Run the Game: 
+Open your terminal, navigate to the folder containing all the files, and run the main script:
 python alien_invasion.py
 
 Controls
