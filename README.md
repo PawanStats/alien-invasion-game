@@ -1,8 +1,8 @@
-# Alien Invasion Game
+# Alien Invasion Game 🚀
 
 This is a classic arcade game, "Alien Invasion," built with Python and the Pygame library.
 
- # Features:-
+ # Features ✨
        1. Control a ship at the bottom of the screen.
        2.Shoot bullets to destroy fleets of aliens.
        3.Score points for each alien destroyed.
@@ -20,14 +20,14 @@ Add Images: You need to find or create two small image files and place them insi
 ship.bmp: An image for the player's ship.
 alien.bmp: An image for the alien enemies.
 
-# Tip: 
+# Tip:
 For best results, use bitmap (.bmp) images and make sure their background color is the same as the game's background ((230, 230, 230) which is a light gray). This will make them look like they have a transparent background.
 
-# Run the Game: 
+# How to Run Game 💻
 Open your terminal, navigate to the folder containing all the files, and run the main script:
 python alien_invasion.py
 
-# Controls:-
+# Controls 
        1.Left/Right Arrow Keys: Move the ship.
        2.Spacebar: Fire bullets.
        3.Q Key: Quit the game.
